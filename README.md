@@ -1,6 +1,10 @@
-# Awesome rust libraries for different application domains
+# Awesome rust learning resources
 
+## blogs
+https://www.ralfj.de/
 
+## tooling
+* detect UB for unsafe codes: https://github.com/rust-lang/miri
 
 ## System Programming 
 * async I/O https://github.com/tokio-rs/tokio
@@ -11,7 +15,6 @@
 * data parallelism https://github.com/rayon-rs/rayon
 *
 ## Signal Processing
-* digital signal processing library for software defined radios https://github.com/jgaeddert/liquid-dsp
 
 ## GUI
 * GUI in Rust that runs on both web and native https://github.com/emilk/egui
